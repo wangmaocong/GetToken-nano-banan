@@ -21,6 +21,7 @@ API获取网址：https://nb.gettoken.cn/
 抗 CDN 延迟：针对官方服务器内置渐进式退避算法（Exponential Backoff）与真实浏览器级 User-Agent 伪装，彻底解决 404 Not Found 及静态防盗链拦截问题。
 
 🇨🇳 全中文沉浸式 UI：所有参数节点均已深度汉化，告别英语生词，并自带 ComfyUI 原生“高贵黄”专属皮肤。
+<img width="1582" height="1172" alt="10cb1369ae5510cf3d62667c08eb624a" src="https://github.com/user-attachments/assets/c3d33937-47da-4a88-9d0e-fe52d8814a89" />
 
 📦 安装指南 (Installation)
 方法一：手动安装
