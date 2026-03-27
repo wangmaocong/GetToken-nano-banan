@@ -1,6 +1,8 @@
 🍌 ComfyUI-GetToken-Banana
 ComfyUI GetToken NanoBanana 终极生成器 是一款为中文用户量身定制的商业级 ComfyUI 插件。它完美接入了 GetToken 官方的 NanoBanana Pro 和 NanoBanana 2 图像大模型，将“文生图”与“图生图”无缝融为一体，并搭载了极速并发与抗网络波动的核心引擎。
 
+API获取网址：https://nb.gettoken.cn/
+
 ✨ 核心特性 (Features)
 🛡️ 突破 10MB 物理限制：首创“二进制流直传+短链替换”技术，完美绕过官方 API 请求体最大 10MB 的限制。无论你连入多大、多少张的高清垫图，都能顺滑提交，绝不卡顿！
 
@@ -34,7 +36,7 @@ pip install -r requirements.txt
 重启 ComfyUI。
 
 🛠️ 使用说明 (Usage)
-在 ComfyUI 画布空白处双击或右键，搜索 GetToken，即可找到 🍌 GetToken NanoBanana 生成器 节点。
+在 ComfyUI 画布空白处双击或右键，搜索 GetToken，即可找到 🍌 GetToken NanoBanana 生成器节点。
 
 参数详解
 api_key: 必填。请在此处填入您在 GetToken 获取的 API 凭证。
